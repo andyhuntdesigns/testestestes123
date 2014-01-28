@@ -1,4 +1,4 @@
 testestestes123
 ===============
 
-learning git.
+Learning git, and how to push/pull files between GitHub & SourceTree.
